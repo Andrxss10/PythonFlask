@@ -1,0 +1,4 @@
+curl.exe -X POST http://127.0.0.1:5000/tareas/1/Estudiar
+curl.exe -X GET http://127.0.0.1:5000/tareas
+curl.exe -X PUT http://127.0.0.1:5000/tareas/1/Programar
+curl.exe -X DELETE http://127.0.0.1:5000/tareas/1
